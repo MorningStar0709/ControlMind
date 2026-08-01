@@ -171,7 +171,7 @@ Reports & Pipeline
   title        = {ControlMind: MinerU-based Scientific Document Intelligence for Sci-Align, Data Agent, and Medical RAG},
   author       = {MorningStar},
   year         = {2026},
-  howpublished = {\url{https://github.com/MorningStar0709/control-sci}},
+  howpublished = {\url{https://github.com/MorningStar0709/ControlMind}},
   note         = {ControlSci benchmark released under CC-BY-4.0}
 }
 ```

@@ -9,7 +9,7 @@
 | 快速验证指南 | [quickstart.md](quickstart.md) |
 | 云端 Demo | [https://demo.askiler.com/](https://demo.askiler.com/) |
 | 前端访问码 | `ControlMind@2026` |
-| GitHub | [MorningStar0709/control-sci](https://github.com/MorningStar0709/control-sci) |
+| GitHub | [MorningStar0709/control-sci](https://github.com/MorningStar0709/ControlMind) |
 | HuggingFace 数据集 | [MorningStar0709/control-sci-corpus](https://huggingface.co/datasets/MorningStar0709/control-sci-corpus) |
 
 云端 Demo 是公开体验入口，用于浏览三赛道页面、公开样例和来源回放；正式数字以 DATA-TRACE、三份主报告与本地 CLI 复核为准。

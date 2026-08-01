@@ -259,7 +259,7 @@ print(f"微调数据: {len(train_data)} 条")
                   for Control Science},
   author       = {{MorningStar}},
   year         = {2026},
-  howpublished = {\url{https://github.com/MorningStar0709/control-sci}},
+  howpublished = {\url{https://github.com/MorningStar0709/ControlMind}},
   note         = {CC-BY-4.0 licensed}
 }
 ```

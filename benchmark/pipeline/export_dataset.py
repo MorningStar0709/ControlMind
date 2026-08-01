@@ -115,7 +115,7 @@ configs:
 Control science structured corpus with two configs: Sci-Align benchmark ({n_q} questions) and Sciverse SFT instruction pairs (924 ChatML entries).
 
 **License:** CC-BY-4.0
-**Project:** [MorningStar0709/control-sci](https://github.com/MorningStar0709/control-sci)
+**Project:** [MorningStar0709/control-sci](https://github.com/MorningStar0709/ControlMind)
 
 ---
 

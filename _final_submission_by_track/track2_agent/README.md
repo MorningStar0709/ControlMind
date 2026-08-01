@@ -24,7 +24,7 @@
 
 | 项目 | 链接 |
 |:---|:---|
-| GitHub | [https://github.com/MorningStar0709/control-sci](https://github.com/MorningStar0709/control-sci) |
+| GitHub | [https://github.com/MorningStar0709/ControlMind](https://github.com/MorningStar0709/ControlMind) |
 | HuggingFace 数据集 | [https://huggingface.co/datasets/MorningStar0709/control-sci-corpus](https://huggingface.co/datasets/MorningStar0709/control-sci-corpus) |
 | 云端 Demo | [https://demo.askiler.com/](https://demo.askiler.com/) |
 | Demo 访问码 | `ControlMind@2026` |
