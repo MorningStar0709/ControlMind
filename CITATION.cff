@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "ControlSci: A Structured Cross-Modal Alignment Benchmark and Data Agent for Control Science"
+title: "ControlMind: MinerU-based Scientific Document Intelligence for Sci-Align, Data Agent, and Medical RAG"
 message: >-
   If you use this project in your research, please cite this software and the
   associated dataset (see url below).
@@ -20,7 +20,7 @@ abstract: >-
   + 339 arXiv papers) via a fully AI-driven pipeline (MinerU parsing → LLM
   question generation → dual-layer arbitration → embedding fast-track), covering
   14 control sub-domains with 28,514 cross-modal chunks and 253K LaTeX formulas.
-  Track 2: ControlSci Data Agent — a 12-intent scientific document cross-modal
+  Track 2: ControlSci Data Agent — a 15-intent scientific document cross-modal
   corpus agent powered by a tri-track inference engine (API / Ollama / vLLM)
   with 4-path resource scheduling, closed-loop self-correction, MiMo-V2.5 native
   visual auditing, QLoRA fine-tuning, and a data flywheel for automatic
