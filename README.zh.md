@@ -2,7 +2,7 @@
 
 **基于 MinerU 的科学文档智能系统：500 题跨模态评测基准、15-Intent 数据智能体、本地优先的医学 RAG 管线 —— 全链路从原始 PDF 到结构化知识。**
 
-[English version](README.md) | [CC-BY-4.0](LICENSE) | [数据许可](DATA_LICENSES.md)
+[English version](README.md) | [CC-BY-4.0](LICENSE) | [Apache-2.0（代码）](LICENSE-CODE) | [数据许可](DATA_LICENSES.md)
 
 ```text
 赛道一  Sci-Align  —  四维控制科学评测基准，9 模型全量排行榜
@@ -175,7 +175,9 @@ controlmind track3 eval --case-set zh_ask
 
 ## 许可与数据边界
 
-- 本项目以 **CC-BY-4.0** 发布，详见 [LICENSE](LICENSE)。
+按资产类型双许可：
+- **代码**（`controlsci/` 包、CLI、脚本、前端）：[Apache-2.0](LICENSE-CODE)
+- **数据与内容**（评测基准、语料块、报告、schema、文档）：[CC-BY-4.0](LICENSE)
 - 公开 PMC/arXiv 原文及其衍生产物遵循其原始许可与署名要求，详见 [DATA_LICENSES.md](DATA_LICENSES.md)。
 - 本仓库**不包含**患者级私有数据。
 - 云端 Demo 输入限定为公开或脱敏材料；医学 chunk 与 RAG 上下文默认本地优先。

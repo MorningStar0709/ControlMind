@@ -6,6 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "controlmind"
 version = "0.1.0"
 description = "ControlMind scientific document evaluation and medical RAG toolkit."
+license = {text = "Apache-2.0"}
 requires-python = ">=3.10"
 dependencies = [
   "typer>=0.12.0",

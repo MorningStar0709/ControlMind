@@ -1,16 +1,20 @@
 # Data Licenses and Release Boundary
 
-ControlMind combines original project code and reports with derived artifacts from
-public third-party literature. The repository-level `LICENSE` applies to the
-original ControlMind code, reports, schemas, scripts, and project-authored
-materials unless a file or directory states otherwise.
+ControlMind is dual-licensed by asset type:
 
-Third-party source documents, parsed text, extracted chunks, images, metadata,
-and evidence traces that originate from PMC, arXiv, or other external publishers
-retain their original licenses, attribution requirements, and reuse restrictions.
-Some source articles may use non-commercial or no-derivatives terms. This
-repository does not relicense those third-party materials under the project
-license.
+- **Code** — the `controlsci/` package, CLI entry points, scripts, pipeline
+  code, and frontend sources: **Apache-2.0**, see [`LICENSE-CODE`](LICENSE-CODE).
+- **Data and content** — benchmark datasets, corpus chunks, reports, schemas,
+  documentation, and other project-authored materials: **CC-BY-4.0**, see
+  [`LICENSE`](LICENSE).
+
+ControlMind combines these original assets with derived artifacts from
+public third-party literature. Third-party source documents, parsed text,
+extracted chunks, images, metadata, and evidence traces that originate from
+PMC, arXiv, or other external publishers retain their original licenses,
+attribution requirements, and reuse restrictions. Some source articles may
+use non-commercial or no-derivatives terms. This repository does not
+relicense those third-party materials under the project licenses.
 
 ## Included Public Data
 

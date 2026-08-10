@@ -2,7 +2,7 @@
 
 **A MinerU-powered scientific document intelligence system: 500-question cross-modal benchmark, 15-intent data agent, and local-first medical RAG — all from raw PDFs.**
 
-[Chinese version](README.zh.md) | [CC-BY-4.0](LICENSE) | [Data licenses](DATA_LICENSES.md)
+[Chinese version](README.zh.md) | [CC-BY-4.0](LICENSE) | [Apache-2.0 (code)](LICENSE-CODE) | [Data licenses](DATA_LICENSES.md)
 
 ```text
 Track 1  Sci-Align  —  4-dimension control-science evaluation benchmark
@@ -156,7 +156,9 @@ Reports & Pipeline
 
 ## License & Data Boundary
 
-- This project is released under **CC-BY-4.0**. See [LICENSE](LICENSE).
+Dual-licensed by asset type:
+- **Code** (`controlsci/` package, CLI, scripts, frontend): [Apache-2.0](LICENSE-CODE)
+- **Data & content** (benchmark, corpus chunks, reports, schemas, docs): [CC-BY-4.0](LICENSE)
 - Public PMC/arXiv source documents and derived artifacts retain their original licenses and attribution. See [DATA_LICENSES.md](DATA_LICENSES.md).
 - Patient-level private data is **not** included.
 - Cloud demo inputs are limited to public or sanitized materials; medical chunks and RAG contexts are local-first by default.
