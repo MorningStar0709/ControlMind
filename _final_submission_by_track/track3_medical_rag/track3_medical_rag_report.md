@@ -913,7 +913,7 @@ controlmind wrapper-doctor
 
 ### 7.4 开源工具链与跨领域验证
 
-本报告的开放交付重点不是发布一个医疗聊天页面，而是交付一套可被医院或科研机构替换本地资料后复用的证据服务骨架：MinerU 解析入口、医学 chunk 与索引构建脚本、REST API、Docker Compose、CLI 复核命令、中文 Ask trace、26 cases 样例包和 DATA-TRACE 共同构成可审查材料。代码仓库 `MorningStar0709/control-sci` 按 CC-BY-4.0 许可开放；本报告使用的公开医学文献、索引产物与评测 trace 均保留本地复核路径，患者级私有资料不作为公开数据集发布。
+本报告的开放交付重点不是发布一个医疗聊天页面，而是交付一套可被医院或科研机构替换本地资料后复用的证据服务骨架：MinerU 解析入口、医学 chunk 与索引构建脚本、REST API、Docker Compose、CLI 复核命令、中文 Ask trace、26 cases 样例包和 DATA-TRACE 共同构成可审查材料。代码仓库 `MorningStar0709/ControlMind` 按代码 Apache-2.0、数据 CC-BY-4.0 双许可开放；本报告使用的公开医学文献、索引产物与评测 trace 均保留本地复核路径，患者级私有资料不作为公开数据集发布。
 
 本管线使用的 mineru-to-md 文档解析引擎随 GitHub 仓库开源，经 362 篇控制科学文献和 97 篇医学解析文献双领域验证。从控制科学到医学的领域迁移中，Agent 编排层 5 个核心模块零代码改动——同一引擎、同一管道、同一 QLoRA 配置。两项自研 Skill（mineru-to-md / searching-arxiv-papers）均以 GitHub 仓库为开放入口，覆盖文献检索→文档解析的全链路。项目获得 Trae IDE 社区 Community Star 认证；在本赛道中，这一社区贡献的意义主要体现为解析工具、部署脚本和本地证据服务能够被复用，而不是要求医疗数据本身离开机构边界。
 

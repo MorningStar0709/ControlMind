@@ -1197,7 +1197,7 @@ Agent 的核心价值不在于“有一个 15 Intent 的系统”，而在于**�
 
 ### 7.3 数据与代码共享
 
-本赛道评估的是 Data Agent 的工程可用性，因此本节保留项目级工程与社区贡献的完整展开：代码、数据、CLI、日志、样例包、部署文档和自研 Skill 共同支撑系统可运行、可复核、可迁移。项目核心资产已在 GitHub 开源（`MorningStar0709/control-sci`，CC-BY-4.0 许可），仓库包含 Benchmark 评测框架、Agent 编排系统、QLoRA 训练脚本和部署指南四个子模块。Hugging Face 数据集 `MorningStar0709/control-sci-corpus`（CC-BY-4.0 许可）包含四个子集：
+本赛道评估的是 Data Agent 的工程可用性，因此本节保留项目级工程与社区贡献的完整展开：代码、数据、CLI、日志、样例包、部署文档和自研 Skill 共同支撑系统可运行、可复核、可迁移。项目核心资产已在 GitHub 开源（`MorningStar0709/ControlMind`，代码 Apache-2.0、数据 CC-BY-4.0 双许可），仓库包含 Benchmark 评测框架、Agent 编排系统、QLoRA 训练脚本和部署指南四个子模块。Hugging Face 数据集 `MorningStar0709/control-sci-corpus`（CC-BY-4.0 许可）包含四个子集：
 
 | 子集 | 内容 | 规模 |
 |:-----|:-----|:-----|
