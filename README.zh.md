@@ -147,6 +147,19 @@ controlmind track3 eval --case-set zh_ask
 
 ---
 
+## 获奖荣誉
+
+- **[2026-07]** 🏆 **三等奖** — [2026 CICC 语料数据智能创意大赛](https://mp.weixin.qq.com/s/0pIsjt6bBqDXHqFezPg5pw)（AGI4S 前沿语料赛道），由 [MinerU](https://mineru.net/MDIC2026/competition) 与上海人工智能实验室主办。
+- **[2026-07]** 📧 **受邀参会** — [2026 世界人工智能大会（WAIC）浦江生态论坛](https://mp.weixin.qq.com/s/_5c9rKJBgnlaN5ky7i-efQ)，作为 MinerU 大赛获奖团队。
+
+---
+
+## 学术认可
+
+- **[2026-09]** 📡 ControlMind 被 [Benchmark Radar](https://benchmark-radar.org/?date=all&q=ControlMind) 收录追踪，该工具由 UT Austin 开发，用于监控基准测试相关研究动态。
+
+---
+
 ## 仓库结构
 
 ```text
