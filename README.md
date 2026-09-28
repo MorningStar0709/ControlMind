@@ -128,6 +128,19 @@ Every quantitative claim in the reports points back to source files, commands, o
 
 ---
 
+## Awards
+
+- **[2026-07]** 🏆 **3rd Prize** in [2026 CICC Data Intelligence Competition](https://mp.weixin.qq.com/s/0pIsjt6bBqDXHqFezPg5pw) (AGI4S Frontier Corpus Track), organized by [MinerU](https://mineru.net/MDIC2026/competition) & Shanghai AI Laboratory.
+- **[2026-07]** 📧 **Invited Participant** at [2026 WAIC Pujiang Ecosystem Forum](https://mp.weixin.qq.com/s/_5c9rKJBgnlaN5ky7i-efQ), as a MinerU Competition Winner.
+
+---
+
+## Recognition
+
+- **[2026-09]** 📡 ControlMind is tracked by [Benchmark Radar](https://benchmark-radar.org/?date=all&q=ControlMind), a benchmark monitoring tool from UT Austin.
+
+---
+
 ## Repository Map
 
 ```text
