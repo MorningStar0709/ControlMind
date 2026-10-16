@@ -26,6 +26,11 @@ Track 3  Medical RAG —  local-first evidence-grounded clinical literature Q&A
 | **Data Agent** | A 15-intent autonomous agent that searches arXiv, parses PDFs with MinerU, audits cross-modal alignment, builds benchmarks, evaluates models, and self-corrects on failure — with unified logging and checkpoint recovery. | `controlmind track2 validate --artifact all` |
 | **Medical RAG** | A local-first evidence Q&A system over 97 parsed PMC papers, with IMRAD-aware chunking, hybrid FAISS+BM25 retrieval, Chinese-to-English query bridging, visual injection, and safety-refusal boundaries. | `controlmind track3 eval --case-set zh_ask` |
 
+> **The Sci-Align track continues in [sci-align-benchmark](https://github.com/MorningStar0709/sci-align-benchmark)** —
+> the extended academic evaluation built on it: 1,979 questions, dual-judge scoring with judge-drift auditing, and
+> the scale × method gain surface. That repository ships the pool, the protocol and the per-item evidence; this one
+> keeps the original 500-question benchmark and its leaderboard.
+
 ---
 
 ## Quick Start

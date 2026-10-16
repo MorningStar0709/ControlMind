@@ -22,6 +22,10 @@ ControlMind 用 MinerU 将 362 篇控制科学文献（23 本教材 + 339 篇 ar
 
 三份提交报告中的定量声明均可通过 [DATA-TRACE.md](docs/submissions/shared/DATA-TRACE.md) 回溯到源文件、命令或哈希记录。
 
+> **Sci-Align 赛道在 [sci-align-benchmark](https://github.com/MorningStar0709/sci-align-benchmark) 上延续**：
+> 在那 500 题之上扩出的学术评测——1,979 题、双判评分加判官漂移审计、规模 × 方法的增益面。
+> 那边随包的是题池、协议与逐题证据；本仓保留原来的 500 题基准与排行榜。
+
 ![System Architecture](docs/submissions/shared/assets/task2/system_architecture.png)
 
 ---
